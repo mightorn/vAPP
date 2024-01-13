@@ -1,0 +1,3 @@
+interface Candidates {
+    name:string;
+}
