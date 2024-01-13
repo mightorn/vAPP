@@ -14,3 +14,4 @@ Anonymity: Users can cast their votes anonymously, protecting their identity and
 
 Vote Verifiability: The application incorporates mechanisms to verify the authenticity of votes, ensuring the transparency and accuracy of the results.
 # vAPP
+# Final-Project
